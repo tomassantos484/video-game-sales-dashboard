@@ -62,3 +62,8 @@ This project presents an interactive data visualization dashboard built in Looke
 ## 📸 Dashboards In Action
 
 
+<img width="900" alt="Screenshot 2025-06-05 at 1 05 02 AM" src="https://github.com/user-attachments/assets/ea420bd2-e3e3-415a-8197-36bc2e5b7f18" />
+
+
+<img width="899" alt="Screenshot 2025-06-05 at 1 05 18 AM" src="https://github.com/user-attachments/assets/23c03c82-fad5-493e-b5f4-310da03e9d83" />
+
